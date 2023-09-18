@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yash Doke</h1>
-<h3 align="center">A passionate Python Programmer || Full Stack Dveloper from India</h3>
+<h3 align="center">A passionate  Software Developer </h3>
 
-- 🔭 I’m currently working on **Face Detection With Python**
+- 🔭 I’m currently working on **Online Bookstore Project**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👯 I’m looking to collaborate on **Web Application Using Django**
-
-- 🤝 I’m looking for help with **Django**
-
-- 💬 Ask me about **Python**
 
 - 📫 How to reach me **yashdoke7066@gmail.com**
 
